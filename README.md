@@ -6,9 +6,10 @@
 
 
 ## :bar_chart:  Status
+<img src="https://github-readme-stats.vercel.app/api?username=Noguchi-Masashi&show_icons=true&theme=dracula" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noguchi-Masashi&layout=compact&theme=dracula&hide=jupyter%20notebook" height="150">
 
+![Noguchi-Masashi’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Noguchi-Masashi&theme=dracula)
 
-![Noguchi-Masashi’s github activity graph](https://activity-graph.herokuapp.com/graph?username=Noguchi-Masashi&theme=rogue)
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noguchi-Masashi&repo=kaggle-exercises&theme=dark)](https://github.com/Noguchi-Masashi/kaggle-exercises)
