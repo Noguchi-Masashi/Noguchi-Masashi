@@ -1,4 +1,4 @@
-# I’m Noguchi-Masashi :wave:
+# :wave: I’m Noguchi-Masashi
 :mortar_board: Graduate School of Information Technology, Yokohama National University
 
 :evergreen_tree: I’m currently learning Machine Learning and Data Science
